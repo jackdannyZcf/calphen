@@ -13,8 +13,9 @@
     <section class="page-header">
       <h1 class="project-name">Calphen.GitHub.io</h1>
       <h2 class="project-tagline">Calphen&#39;s Blog</h2>
-      <h3 class="project-tagline">hello calphen</h3>
-      <h4>李满春是SB</h4>
+      <a href="https://github.com/jackdannyZcf/calphen" class="btn">View on GitHub</a>
+      <a href="https://github.com/jackdannyZcf/calphen/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/jackdannyZcf/calphen/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
